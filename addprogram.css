@@ -1,0 +1,38 @@
+#top {
+    top: 0;
+    background-color: orange;
+    height: 100px;
+}
+#box{
+    width:300px;
+    height:350px;
+    background: transparent;
+    margin:auto;
+    position: absolute;
+   
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-family: "Montserrat";
+}
+.button{
+  display: inline-block;
+  font-family: 'Montserrat';
+  background-color: orange;
+  border: none;
+  color: black;
+  padding: 12px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    outline: none;
+
+}
+#container{
+    text-align: center;
+}
